@@ -1718,4 +1718,19 @@
   
     .footer-top .container { max-width: 1200px; }
   
+  
   }
+  .service-img {
+    width: 100%;
+    max-width: 200px; /* Set a maximum width for all images */
+    height: 200px; /* Set a fixed height for all images */
+    object-fit: cover; /* Make sure images cover the given area without distortion */
+    display: block; /* Remove any inline block spacing */
+  }
+  .sitedeveloed{
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
